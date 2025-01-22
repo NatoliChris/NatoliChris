@@ -12,6 +12,7 @@ What things am I working on / attempt to side-project?
     - Cross-chain and cross-protocol messaging
 - Non-blockchain things
     - Web-thangs (express, react, vite, next, ..)
+    - Random things in rust (trying to learn me a rust - project ideas / happy to co-dev things!)
 - Tooling
     - frontend things
     - visualisations
