@@ -1,30 +1,22 @@
-```
- | \ | |     | |       | |      | (_)
- |  \| | __ _| | ____ _| |_ ___ | |_
- | . ` |/ _` | |/ / _` | __/ _ \| | |
- | |\  | (_| |   < (_| | || (_) | | |
- |_| \_|\__,_|_|\_\__,_|\__\___/|_|_|
-```
+## Nakatoli
 
-Hello there! I play with blocks - on a chains of sorts?
+Just learning cool things, while playing with blocks.
 
-Reach out for blockchain conversations, questions and curiosities
+What things am I working on / attempt to side-project?
 
-- 🔭 I'm looking to cool projects
-- 🌱 Trying to learn me a rust.
-- Free time will be coming soon, so watch for some projects :)
+- Blockchain-related things
+    - Networks (p2p, gossip, allllll the awesome stuff!)
+    - Consensus (bft, open membership, rolling membership, etc.)
+    - Databases (structured storage, syncing)
+    - Application-layer funky things
+    - Cross-chain and cross-protocol messaging
+- Non-blockchain things
+    - Web-thangs (express, react, vite, next, ..)
+- Tooling
+    - frontend things
+    - visualisations
+    - configs and automations
 
-<!--
-**NatoliChris/NatoliChris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm `@nakatoli` on most things - that I can get my hands on.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here there be dragons.
